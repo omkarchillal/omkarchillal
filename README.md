@@ -46,13 +46,14 @@ I specialize in **MERN Stack**, **React Native**, and **real-time systems**, and
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omkarchillal&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=omkarchillal&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/streak.svg" width="49%" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarchillal&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/languages.svg" width="40%" />
 </p>
+
 
 
 ## 🚀 Featured Projects

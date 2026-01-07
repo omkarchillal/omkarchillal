@@ -50,19 +50,6 @@ From designing secure backends to crafting smooth mobile experiences, I focus on
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/stats.svg" width="49%" />
-  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/streak.svg" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omkarchillal/github-stats/main/languages.svg" width="40%" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 💬 Real-Time Messenger App (MERN Stack)

@@ -72,7 +72,11 @@ I focus on:
 
 ### 💬 Messenger App (MERN + Socket.IO)
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="70%" />
+  <img 
+    src="https://raw.githubusercontent.com/omkarchillal/Portfolio2026/main/src/assets/messengerApp.png"
+    width="75%"
+    alt="Messenger App Preview"
+  />
 </p>
 
 - Real-time chat with typing indicators & notifications  
@@ -84,7 +88,11 @@ I focus on:
 
 ### ⛏️ Crypto Miner Android App (React Native)
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="70%" />
+  <img 
+    src="https://raw.githubusercontent.com/omkarchillal/Portfolio2026/main/src/assets/cryptominerApp.png"
+    width="75%"
+    alt="Crypto Miner App Preview"
+  />
 </p>
 
 - Wallet-based passwordless login  
@@ -96,7 +104,11 @@ I focus on:
 
 ### ☀️ Weather App (React.js)
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="70%" />
+  <img 
+    src="https://raw.githubusercontent.com/omkarchillal/Portfolio2026/main/src/assets/weatherApp.png"
+    width="75%"
+    alt="Weather App Preview"
+  />
 </p>
 
 - Real-time weather data using OpenWeather API  
@@ -109,7 +121,7 @@ I focus on:
 ## 🎯 What I’m Looking For
 
 - Frontend Developer / Full-Stack Developer / Mobile Developer roles  
-- Full-Time Opportunities  
+- Internships or Full-Time Opportunities  
 - Teams building **real-world, user-focused products**
 
 ---

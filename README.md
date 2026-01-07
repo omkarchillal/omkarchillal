@@ -1,115 +1,112 @@
-# Hi there 👋 I'm Omkar Chillal  
-### 🚀 Full-Stack & Mobile Application Developer
+<h1 align="center">
+  Hi 👋, I'm Omkar Chillal
+</h1>
+
+<h3 align="center">
+  🚀 Full-Stack & Mobile Application Developer
+</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/omkarchillal21"><img src="https://img.shields.io/badge/LinkedIn-Omkar%20Chillal-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:omkarchillal99@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://github.com/omkarchillal"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"></a>
-</p>
-
-<p align="center">
-  💻 MERN Stack • 📱 React Native • ⚡ Real-Time Systems • 🧠 Clean Architecture  
-  <br/>
-  📍 Pune, India
+  <a href="https://github.com/omkarchillal">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;MERN+Stack+Engineer;React+%26+React+Native+Developer;Building+Scalable+Apps;Always+Learning+New+Tech&center=true&width=500&height=50">
+  </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack & Mobile Developer** who loves building scalable, high-performance applications that solve real-world problems.  
-From designing secure backends to crafting smooth mobile experiences, I focus on writing clean, efficient, and maintainable code.
+💡 Full-Stack & Mobile Application Developer with hands-on experience in **MERN Stack** and **React Native**  
+📱 Passionate about building **scalable, high-performance web & mobile apps**  
+⚡ Strong focus on **clean UI, secure backend, and real-time systems**  
+📍 Pune, India  
 
-- 🔭 **Software Development Engineer Trainee @ NDSoftTech Solutions**
-- 📱 Built **4+ production-ready Android apps**
-- 🧠 Strong in **DSA, System Design & Performance Optimization**
-- 🌱 Always improving UX, architecture & scalability
-
----
-
-## 🧩 Why Hire Me?
-
-- 1+ year hands-on industry experience in **MERN & React Native**
-- Built **production-grade systems** with real-time communication & scalable architecture
-- Strong foundation in **DSA, system design & clean code**
-- Experience delivering **4+ Android applications** end-to-end
-- Proven ability to ship features fast while maintaining code quality
+📫 **Email:** omkarchillal99@gmail.com  
+🔗 **Portfolio & Code:**  
+- GitHub: https://github.com/omkarchillal  
+- LinkedIn: https://www.linkedin.com/in/omkarchillal21  
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-**Languages**  
-`JavaScript` `HTML` `CSS` `SQL`
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
-**Frameworks & Libraries**  
-`React` `React Native` `Node.js` `Express` `Redux` `Socket.IO`
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
-**Databases & Tools**  
-`MongoDB` `MySQL` `Firebase` `Git` `Postman` `VS Code`
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+
+---
+
+## 💼 Experience
+
+### 🏢 SDE Intern — NDSofttech Solutions  
+📆 Oct 2025 – Dec 2025  
+
+- Built a **real-time MERN Messenger App** using Socket.IO  
+- Developed **React Native Android apps & games**  
+- Worked on **authentication, performance optimization, and full-stack integration**  
+
+### 🏢 MERN Intern — Crio.Do  
+📆 Feb 2024 – Jan 2025  
+
+- Developed industry-grade **React & Full-Stack applications**  
+- Built projects like **QTIFY, QKart, QTrip, XBoard, XCruise**  
+- Strengthened skills in **React Hooks, REST APIs, and responsive UI**
 
 ---
 
 ## 🚀 Featured Projects
 
-### 💬 Real-Time Messenger App (MERN Stack)
-> Scalable real-time chat platform supporting high concurrency
+### 💬 Messenger App (MERN + Socket.IO)
+- Real-time chat, media sharing & typing indicators  
+- Firebase Authentication & secure password reset  
+- Scalable backend with optimized DB queries  
 
-- Socket.IO real-time communication  
-- JWT & Passport authentication  
-- Photo & voice messages  
-- Typing indicators & live updates  
-- Optimized backend & database performance
+### ⛏️ Crypto Miner Android App (React Native)
+- Wallet-based passwordless login  
+- Refer & Earn, Ads Monetization, Leaderboards  
+- Admin Panel & Cloud Backend  
 
-### 📱 Crypto Miner Android App
-> Production-level mobile system with monetization & analytics
-
-- Wallet-based authentication  
-- Mining lifecycle & reward engine  
-- Refer-and-Earn with dual bonuses  
-- Google Rewarded Ads integration  
-- Admin dashboard with analytics & notifications
-
-### 🌦️ Weather Application
-> Smart location-aware weather system
-
-- GeoDB + OpenWeather APIs  
-- Auto-location detection  
-- 7-day forecast  
-- Network type detection (2G / 3G / 4G)  
-- Fully responsive & performance optimized
-
-### 🛒 QKart & QTIFY Platforms
-> E-commerce & music streaming solutions
-
-- Shopping cart, search & filtering  
-- Secure authentication & API integration  
-- Modular scalable architecture
+### ☀️ Weather App (React.js)
+- Live weather data using OpenWeather API  
+- Auto location detection & 7-day forecast  
+- Network condition detection (2G/3G/4G)  
 
 ---
 
-## 🏢 Experience
+## 📊 GitHub Stats
 
-**Software Development Engineer Trainee — NDSoftTech Solutions**  
-Designing & building production-grade MERN & React Native applications with focus on performance, scalability & maintainability.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omkarchillal&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-## 🎓 Education
-
-**MCA – Computer Engineering** — Trinity Academy of Engineering, Pune  
-**BBA – Computer Applications** — Abhinav College, Pune
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarchillal&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🤝 Let’s Connect
 
-📧 **Email:** omkarchillal99@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/omkarchillal21  
-🐙 **GitHub:** https://github.com/omkarchillal
+💼 Open to **Frontend / Full-Stack / Mobile Developer roles**  
+🤝 Always happy to collaborate on exciting projects  
 
----
-
-<p align="center">
-  <i>Open to full-time roles, internships & freelance opportunities.</i>
-</p>
+⭐ If you like my work, consider giving a star!

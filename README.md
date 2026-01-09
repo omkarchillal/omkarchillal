@@ -45,21 +45,6 @@ I focus on:
 
 ---
 
-## 👨‍💻 About Me
-
-I’m a **Full‑Stack & Mobile Application Developer** passionate about building  
-**scalable, high‑performance, real‑world applications** using the **MERN stack** and **React Native**.
-
-I focus on:
-- Clean & responsive UI  
-- Secure backend architecture  
-- Real‑time systems  
-- Performance & scalability  
-
-Currently open to **Frontend / Full‑Stack / Mobile Developer roles** 🚀
-
----
-
 ## 🧠 Skills
 
 ### 🖥️ Frontend
